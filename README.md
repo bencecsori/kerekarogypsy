@@ -1,3 +1,3 @@
 # kerekarogypsy
 
-Az elso web projekt. Az index html letrehozasa
+Az elso web projekt. Az index html letrehozasa.
